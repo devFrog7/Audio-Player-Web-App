@@ -1,6 +1,6 @@
 # Audio Player Web App
 
-![Audio Player](img/ReadMe.png)
+![Audio Player](img/player.png)
 
 ## Projektbeschreibung
 
